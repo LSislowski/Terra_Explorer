@@ -5,7 +5,9 @@ Light Client and Full Client.
 <br>
 
 * * * *
-To Read through the work I've completed on this repo, first clone the repository and pip install the dependencies that are included (its reccomended that you work in a virtual environment)
+To Read through the work I've completed on this repo, first clone the repository and pip install the dependencies that are included (its reccomended that you work in a virtual environment) You can do this by the code below:
+
+< pip install requirements.txt>
 
 Run all cells in the Terra_Eco_Overview notebook and the Terra_sdk notebook.  The overview notebook has interesting information about the distribution of validators and the growth of the network while the Terra_sdk notebook has a few cells that you are able to query information about different wallet addresses.
 
